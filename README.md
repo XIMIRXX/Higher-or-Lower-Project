@@ -1,0 +1,2 @@
+# Higher-or-Lower-Project
+A game that asks the user to guess who has more followers on Instagram.
